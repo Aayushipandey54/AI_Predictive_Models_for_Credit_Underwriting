@@ -1,3 +1,6 @@
+# This is App using Flask and its Post method 
+
+
 from flask import Flask, escape, request, render_template
 import pickle
 import numpy as np
