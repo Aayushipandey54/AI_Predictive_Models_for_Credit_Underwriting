@@ -37,7 +37,9 @@ Streamlit
 NumPy
 scikit-learn
 Pickle (standard library)
+
 To install the necessary libraries, use the following command:
+
 Copy code
 pip install -r requirements.txt
 
