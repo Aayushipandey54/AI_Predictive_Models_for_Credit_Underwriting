@@ -22,8 +22,10 @@ seaborn
 Features
 -------------------------------------
 Two apps for flexibility:
-*Flask App: A traditional web application.
-*Streamlit App: A modern, interactive dashboard for streamlined predictions.
+
+*Flask App: A traditional web application.*
+
+*Streamlit App: A modern, interactive dashboard for streamlined predictions.*
 Input preprocessing (e.g., log transformations, one-hot encoding).
 A pre-trained machine learning model (model.pkl) for prediction.
 
