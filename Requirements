@@ -1,0 +1,16 @@
+Flask==2.3.3
+Streamlit==1.27.0
+numpy==1.25.2
+scikit-learn==1.3.0
+pandas==2.1.1
+matplotlib==3.8.0
+
+
+#Explanation of the Libraries
+# Flask: Handles web application routing and rendering templates (index.html, prediction.html).
+# Streamlit: Builds an interactive interface for predictions.
+# NumPy: Performs transformations like log scaling (np.log()).
+# scikit-learn: Loads the pre-trained ML model and handles predictions.
+# pandas: Prepares or manipulates data (useful for tabular data handling).
+# matplotlib: Creates optional visualizations in Streamlit.
+# joblib: An optional library for model serialization (alternative to Pickle).
