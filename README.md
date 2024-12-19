@@ -146,11 +146,15 @@ pip install -r requirements.txt
 
 # 🚀Leverage AI-powered predictive models to revolutionize credit underwriting and streamline decision-making.
 
-## 🖼️ System Architecture
+## 🈁System Architecture
 ![System Architecture](https://www.ijraset.com/images/text_version_uploads/imag%201_11441.png)
 ----
+## 🪢USE CASE DIAGRAM
 ![USE CASE DIAGRAM](https://www.ijraset.com/images/text_version_uploads/imag%201_11442.png)
-
+----
+## Activity Diadram
+![Activity Diadram](https://www.ijraset.com/images/text_version_uploads/imag%201_11444.png)
+----
 ## 🎥 Demo Video
 [Click here to watch the demo video](./videos/demo-video.mp4)
 
