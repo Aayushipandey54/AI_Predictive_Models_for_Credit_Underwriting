@@ -144,8 +144,7 @@ pip install -r requirements.txt
 ```
 ------------
 
-# 🚀 AI Predictive Models for Credit Underwriting
-Leverage AI-powered predictive models to revolutionize credit underwriting and streamline decision-making.
+# 🚀Leverage AI-powered predictive models to revolutionize credit underwriting and streamline decision-making.
 
 ## 🖼️ System Architecture
 ![System Architecture](images/system-architecture.png)
