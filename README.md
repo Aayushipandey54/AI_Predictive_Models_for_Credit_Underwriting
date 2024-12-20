@@ -156,7 +156,7 @@ pip install -r requirements.txt
 ![Activity Diadram](https://www.ijraset.com/images/text_version_uploads/imag%201_11444.png)
 ----
 ## 🎥 Demo Video
-[Click here to watch the demo video](./videos/demo-video.mp4)
+[Watch the Video](https://drive.google.com/file/d/1b2oz001X583VOoHDCIJCHBZnJmz25zKb/view?usp=sharing)
 
 ---------
 
